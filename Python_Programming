@@ -1,4 +1,4 @@
 A=int(input("A="))
 B=int(input("B="))
 C=A+B
-print("Value is,C")
+print("Value is",C,".")
